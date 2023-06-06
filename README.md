@@ -4,6 +4,6 @@
   - Banner Section
   - Order Now Section
 	 
------ Tech Stack -----
-      -HTML
-      -CSS
+----- Tech Stack ------
+
+      -HTML, CSS
