@@ -5,4 +5,5 @@
   - Order Now Section
 	 
 ----- Tech Stack -----
-      -HTML, CSS
+      -HTML
+      -CSS
