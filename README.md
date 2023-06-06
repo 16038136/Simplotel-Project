@@ -1,8 +1,8 @@
 # Simplotel-Project
-------Observations------
+------ Observations ------
   - Header with menu items
   - Banner Section
   - Order Now Section
 	 
------Tech Stack-----
+----- Tech Stack -----
       -HTML, CSS
